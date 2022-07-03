@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8928233-faa1-422c-8ff6-51613f20f8de" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/model/dao/DaoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/dao/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/DaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/dao/SellerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/SellerDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/entities/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/entities/Seller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
